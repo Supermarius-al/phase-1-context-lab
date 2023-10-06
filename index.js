@@ -99,7 +99,7 @@ let name = sourceArr.filter(record => record.firstName === firstName)[0];
     //    return record;}
 //}
 
-return name ? name : undefined
+return name
 //return undefined
 }    
 
